@@ -6,4 +6,4 @@ The api-feed-cache is perfecting a backend (currently PHP script) that will save
 
 The script will act can act as a require, restful call, or cron job. This will give a variety of ways for use cases to fit the delivery pipeline. 
 
-After the PHP script has been made, the project will be pranched into ruby, etc, to give the same funcitonality to fit your backend flavor of server needs.
+After the PHP script has been made, the project will be branched into ruby, etc, to give the same funcitonality to fit your backend flavor of server needs.
